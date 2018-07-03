@@ -11,6 +11,12 @@ include 'includes/head.php'; ?>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><span class="oi oi-arrow-top"></span></button>
 
+<div class="index-header">
+	<div class="row no-gutters">
+			<div class="col-md-1 brand-logo"><a href="index.php"><img src="images/medical-logo.jpg" class="brand-logo"></a></div>
+			<div class="col-md-3 brand-title">
+				<h2><a href="index.php">National Institute of Medical Science</a></h2>
+			</div>
 
 	<div class="col-md-8">
 		<?php include 'includes/navbar.php'; ?>
