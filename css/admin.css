@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+body{
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.brand-logo img{
+  width: 80px;
+  height: auto;
+  margin: 10px auto;
+}
+
+.brand-title{
+  margin: 10px auto;
+}
+
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+footer {
+  margin-top: 20px;
+}
+
+.navbar-custom{
+  background-color: #1c1452;
+}
+
+.header {
+  margin: 15px auto;
+}
+
+.mini-navabr {
+  font-size: 204px;
+}
+
+.gr {
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+    .gr button{
+            font-size: 20px;
+        }
+
+.header img{
+  border-radius: 140px;
+}
+
+.s-img img{
+  height: 100px;
+  width: auto;
+}
+
+.s-img a{
+  color: red;
+  text-decoration: none;
+}

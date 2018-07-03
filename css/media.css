@@ -1,0 +1,32 @@
+@media screen and (max-width: 720px) {
+		.number{
+			font-size: 90px;
+		}
+		input[type="text"],input[type="email"], select{
+			width: 80%;
+		}
+}
+
+@media screen and (max-width: 480px) {
+		.sidenav{
+			display: none;
+		}
+		.number{
+			font-size: 90px;
+		}
+		input[type="text"],input[type="email"], select{
+			width: 80%;
+		}
+}
+
+@media screen and (max-width: 360px) {
+		.sidenav{
+			display: none;
+		}
+		.number{
+			font-size: 90px;
+		}
+		input[type="text"],input[type="email"], select{
+			width: 80%;
+		}
+}

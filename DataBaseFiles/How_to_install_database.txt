@@ -1,0 +1,4 @@
+Create a new database using the name "hms" in PHPMYADMIN
+Then open the database and click on the import folder
+Now click on choose the file
+and browse to the project folder for the "hms.sql" file and click on go
